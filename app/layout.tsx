@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'isklenses — Original Contact Lenses in Pakistan',
+  description: 'Shop original Bella, EL Dorado, Hidrocor, and colored contact lenses with nationwide delivery from isklenses.',
   generator: 'v0.app',
   icons: {
     icon: [
